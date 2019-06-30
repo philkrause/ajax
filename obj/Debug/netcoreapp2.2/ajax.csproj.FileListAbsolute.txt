@@ -1,0 +1,11 @@
+/Users/phil/Desktop/warmUps/c#ajax/ajax/obj/Debug/netcoreapp2.2/ajax.csprojAssemblyReference.cache
+/Users/phil/Desktop/warmUps/c#ajax/ajax/obj/Debug/netcoreapp2.2/ajax.csproj.CoreCompileInputs.cache
+/Users/phil/Desktop/warmUps/c#ajax/ajax/obj/Debug/netcoreapp2.2/ajax.AssemblyInfoInputs.cache
+/Users/phil/Desktop/warmUps/c#ajax/ajax/obj/Debug/netcoreapp2.2/ajax.AssemblyInfo.cs
+/Users/phil/Desktop/warmUps/c#ajax/ajax/bin/Debug/netcoreapp2.2/ajax.deps.json
+/Users/phil/Desktop/warmUps/c#ajax/ajax/bin/Debug/netcoreapp2.2/ajax.runtimeconfig.json
+/Users/phil/Desktop/warmUps/c#ajax/ajax/bin/Debug/netcoreapp2.2/ajax.runtimeconfig.dev.json
+/Users/phil/Desktop/warmUps/c#ajax/ajax/bin/Debug/netcoreapp2.2/ajax.dll
+/Users/phil/Desktop/warmUps/c#ajax/ajax/bin/Debug/netcoreapp2.2/ajax.pdb
+/Users/phil/Desktop/warmUps/c#ajax/ajax/obj/Debug/netcoreapp2.2/ajax.dll
+/Users/phil/Desktop/warmUps/c#ajax/ajax/obj/Debug/netcoreapp2.2/ajax.pdb
